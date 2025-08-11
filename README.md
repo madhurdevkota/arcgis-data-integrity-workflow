@@ -36,10 +36,7 @@ This project demonstrates a complete, reproducible workflow for building a geoda
 
 ---
 
-## 📂 Project Structure
-
-
-### Geodatabase Schema
+### 📂Geodatabase Schema
 ![Geodatabase Schema](images/GDB_schema_breakdown.png)
 
 ### Topology Relationships
