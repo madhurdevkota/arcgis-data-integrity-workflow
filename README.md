@@ -58,5 +58,5 @@ This project demonstrates a complete, reproducible workflow for building a geoda
 git clone https://github.com/madhurdevkota/arcgis-data-integrity-workflow.git
 
 #### Open ArcGIS Pro Python environment
-#### Run the main Python script
-python ArcGIS_Data_Integrity.py
+#### Run the main Python Jupyter Notebook
+ArcGIS_Data_Integrity.ipynb
