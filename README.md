@@ -29,7 +29,7 @@ This project demonstrates a complete, reproducible workflow for building a geoda
 
 ---
 
-## 🌟 Highlights
+## Highlights
 - **End-to-End Automation** – Every step, from importing source data to enforcing integrity constraints, is scripted in `arcpy` for repeatability.
 - **Robust QA/QC** – Incorporates both attribute-level and spatial-level checks.
 - **Standards-Based Design** – Follows Esri best practices for geodatabase modeling, adaptable to municipal, utility, or infrastructure datasets.
@@ -57,6 +57,6 @@ This project demonstrates a complete, reproducible workflow for building a geoda
 # Clone repository
 git clone https://github.com/madhurdevkota/arcgis-data-integrity-workflow.git
 
-# Open ArcGIS Pro Python environment
-# Run the main Python script
+#### Open ArcGIS Pro Python environment
+#### Run the main Python script
 python ArcGIS_Data_Integrity.py
