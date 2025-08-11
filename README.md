@@ -31,7 +31,7 @@ This project demonstrates a complete, reproducible workflow for building a geoda
 
 ## Highlights
 - **End-to-End Automation** – Every step, from importing source data to enforcing integrity constraints, is scripted in `arcpy` for repeatability.
-- **Robust QA/QC** – Incorporates both attribute-level and spatial-level checks.
+- **QA/QC** – Incorporates both attribute-level and spatial-level checks.
 - **Standards-Based Design** – Follows Esri best practices for geodatabase modeling, adaptable to municipal, utility, or infrastructure datasets.
 
 ---
