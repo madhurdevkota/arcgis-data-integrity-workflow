@@ -1,6 +1,6 @@
 # ArcGIS Data Integrity & Validation Workflow
 
-This project demonstrates a complete, reproducible workflow for building a geodatabase in ArcGIS Pro using Python (`arcpy`) — from raw spatial datasets to a rigorously validated data model. It ensures spatial and attribute integrity through structured schema design, domains, subtypes, contingent values, attribute rules, and topology validation.
+This project demonstrates workflow for building a geodatabase in ArcGIS Pro using Python (`arcpy`) — from raw spatial datasets to a validated data model. It ensures spatial and attribute integrity through structured schema design, domains, subtypes, contingent values, attribute rules, and topology validation.
 
 
 ## Key Steps
